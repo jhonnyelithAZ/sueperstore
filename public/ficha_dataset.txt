@@ -1,0 +1,6 @@
+Nombre del Dataset: Superstore Sales Dataset Origen: Kaggle
+
+Ficha Descriptiva : El dataset seleccionado corresponde a los registros de ventas de una tienda retail ("Superstore"). 
+Cuenta con aproximadamente 9,994 filas y 21 columnas, superando el mínimo requerido.
+Elegí este conjunto de datos porque cumple a la perfección con los requisitos técnicos: posee columnas de fecha (Order Date, Ship Date), categóricas (Category, Region, Segment) y numéricas (Sales, Profit, Discount).
+ Su dominio es ideal para esta prueba de desempeño, ya que permite formular preguntas de negocio claras sobre tendencias de ingresos, rentabilidad de productos y comportamiento de los clientes, facilitando además la limpieza en Pandas y la construcción de un modelo estrella (Hechos y Dimensiones) para la carga en PostgreSQL y el tablero de Power BI.
